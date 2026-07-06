@@ -80,7 +80,7 @@ Target Variable:
 6. Model Evaluation
 7. Risk Band Creation
 8. Stress Testing
-9. Business Insights
+9. Business Insights.
 
 ---
 
