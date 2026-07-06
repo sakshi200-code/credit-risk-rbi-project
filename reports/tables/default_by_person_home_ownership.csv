@@ -1,0 +1,5 @@
+person_home_ownership,records,defaults,default_rate
+RENT,16442,5191,0.3157
+OTHER,107,33,0.3084
+MORTGAGE,13441,1690,0.1257
+OWN,2584,193,0.0747
