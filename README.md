@@ -520,7 +520,7 @@ These borrowers should receive enhanced review and monitoring.
 
 ---
 
-### 3. Incorporate stress testing into portfolio planning
+### 3. Incorporate stress testing into portfolio planning.
 
 The stress-testing results show that adverse interest-rate and affordability conditions can materially increase predicted default risk.
 
